@@ -1,4 +1,4 @@
-import CalendarGrid from "./components/CalendarGrid";
+import { CalendarGrid } from "@/app/components/calendar";
 
 export default function Home() {
   return (
