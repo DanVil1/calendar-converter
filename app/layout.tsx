@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Calendar Converter",
+  title: "Chronos",
   description: "Visualize the flow of time through different civilizations and astronomical eras.",
 };
 
